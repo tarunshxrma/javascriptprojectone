@@ -43,7 +43,7 @@ select{
 }
 .drop{
     position: absolute;
-    left: 630px;
+    left: 580px;
 }
 .line{
     margin-left: 35px;
@@ -61,6 +61,7 @@ select{
     font-family: 'Archivo Black', sans-serif;
 }
 button{
+    cursor: pointer;
     width: 299px;
     height: 50px;
     border: none;
